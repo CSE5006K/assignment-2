@@ -6,6 +6,7 @@ module.exports = (sequelize, Sequelize) => {
             primaryKey: true,
         },
         // DEFINE YOUR MODEL HERE
+        // test commit
     });
   
     return Contact;
